@@ -1,0 +1,6 @@
+arrayerror:
+new array length must be an integer
+'length' can only be applied to arrays
+[] can only be applied to arrays
+function 'length' expects 0 argument(s) but 1 given
+*** Error at (14,13): array subscript must be an integer
